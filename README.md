@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Ivan — mechatronics student focused on robotics, autonomous systems, and embedded control.</h3>
+<h3 align="center">Hi, I'm Ivan. Mechatronics student focused on robotics, autonomous systems, and embedded control.</h3>
 
 <p align="center">I build systems from requirements to tested hardware: embedded C, real-time control, computer vision, and model-based simulation.</p>
 
