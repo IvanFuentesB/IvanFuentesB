@@ -20,10 +20,19 @@
 
 ---
 
-### GitHub stats
+### GitHub activity
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IvanFuentesB&show_icons=true&theme=dark&hide_border=true&bg_color=0d281c&title_color=46c08a&icon_color=9fd9be" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=IvanFuentesB&theme=dark&hide_border=true&background=0d281c&ring=46c08a&fire=9fd9be&currStreakLabel=46c08a" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IvanFuentesB&show_icons=true&count_private=true&include_all_commits=true&hide=issues&theme=dark&hide_border=true&bg_color=0d281c&title_color=46c08a&icon_color=9fd9be&text_color=e6f2ec" />
+    <img height="170" src="https://streak-stats.demolab.com/?user=IvanFuentesB&theme=dark&hide_border=true&background=0d281c&ring=46c08a&fire=9fd9be&currStreakLabel=46c08a&sideLabels=9fd9be&dates=9fd9be" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanFuentesB&layout=compact&langs_count=8&hide=html,css&theme=dark&hide_border=true&bg_color=0d281c&title_color=46c08a&text_color=e6f2ec" />
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanFuentesB&theme=nord_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IvanFuentesB&theme=react-dark&hide_border=true&bg_color=0d281c&color=46c08a&line=9fd9be&point=ffffff&area=true&area_color=46c08a" />
 </p>
 
 ---
