@@ -22,12 +22,7 @@
 
 ### GitHub activity
 <p align="center">
-  <img height="170" alt="Ivan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=IvanFuentesB&show_icons=true&count_private=true&include_all_commits=true&hide=issues&theme=dark&hide_border=true&bg_color=0d281c&title_color=46c08a&icon_color=9fd9be&text_color=e6f2ec" />
-    <img height="170" alt="Ivan's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanFuentesB&layout=compact&langs_count=8&hide=html,css&theme=dark&hide_border=true&bg_color=0d281c&title_color=46c08a&text_color=e6f2ec" />
-</p>
-
-<p align="center">
-  <img alt="Ivan's contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=IvanFuentesB&theme=react-dark&hide_border=true&bg_color=0d281c&color=46c08a&line=9fd9be&point=ffffff&area=true&area_color=46c08a" 
+  <img alt="Ivan's contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=IvanFuentesB&theme=react-dark&hide_border=true&bg_color=0d281c&color=46c08a&line=9fd9be&point=ffffff&area=true&area_color=46c08a" />
 </p>
 
 ---
