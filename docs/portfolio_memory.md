@@ -4,7 +4,7 @@
 
 - Source ZIP: `github_readme_visual_asset_pack_v4.zip`
 - Assets for README rendering are now copied locally into each repo under `docs/assets/`
-- Do not depend on `IvanFuentesB/delete` for the v4 README visuals
+- README visuals are now self-contained in local repo assets
 
 ## Brand and truth rules
 
