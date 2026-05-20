@@ -44,11 +44,6 @@
 ## GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IvanFuentesB&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&bg_color=06140e&title_color=9fd9be&text_color=9fd9be&icon_color=46c08a" alt="Ivan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanFuentesB&layout=compact&hide_border=true&langs_count=8&bg_color=06140e&title_color=9fd9be&text_color=9fd9be&hide=html,css,jupyter%20notebook" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanFuentesB&theme=github_dark" alt="GitHub profile summary" />
 </p>
 
