@@ -1,14 +1,14 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/IvanFuentesB/delete/main/assets/linkedin/linkedin_banner_right_safe_no_face.png" alt="Ivan Fuentes banner" width="100%" />
-</p>
+# Ivan Fuentes Bedereu
 
-<h1 align="center">Ivan Fuentes Bedereu</h1>
+Mechatronics Engineering student at Fontys University of Applied Sciences focused on robotics, autonomous systems, embedded control, computer vision, and hardware-software integration.
 
 <p align="center"><strong>Mechatronics Engineering student at Fontys University of Applied Sciences</strong></p>
 
 <p align="center">Robotics • autonomous systems • embedded control • computer vision • hardware-software integration</p>
 
 <p align="center">Mechatronics student building systems where embedded control, computer vision, and hardware bring-up have to work together — not just demo in isolation.</p>
+
+I build engineering systems where sensing, control, software, and hardware have to agree under real constraints. The strongest portfolio pieces here are the ones with visible architecture, supporting evidence, and honest technical boundaries rather than vague demo claims.
 
 ## What I work on
 
@@ -25,27 +25,24 @@
       <strong>NXP-Cup Autonomous Car</strong><br/>
       Camera-guided model car with embedded steering and speed control, custom electronics integration, ultrasonic braking, and real-time tuning workflows.<br/><br/>
       <strong>Focus:</strong> Embedded C, S32K144, custom PCB, control loops, MATLAB tuning<br/>
-      <strong>Proof:</strong> <a href="https://raw.githubusercontent.com/IvanFuentesB/delete/main/assets/case-studies/diagrams/svg/nxp_01_electrical_architecture.svg">Electrical architecture</a> · <a href="https://raw.githubusercontent.com/IvanFuentesB/delete/main/assets/case-studies/diagrams/svg/nxp_03_vision_pipeline.svg">Vision pipeline</a> · <a href="https://raw.githubusercontent.com/IvanFuentesB/delete/main/assets/case-studies/diagrams/svg/nxp_04_braking_state_machine.svg">Braking state machine</a>
+      <strong>Read:</strong> <a href="docs/nxp/NXP_CUP_README_UPGRADE.md">NXP README visual upgrade draft</a>
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/IvanFuentesB/SDA_Group_Project">SDA Computer Vision Platformer</a></strong><br/>
       Multi-device platformer where physical colored shapes detected by camera are published through MQTT and mapped into game progression.<br/><br/>
-      <strong>Focus:</strong> Python, Pygame, OpenCV, MQTT, Serial<br/>
-      <strong>Proof:</strong> <a href="https://raw.githubusercontent.com/IvanFuentesB/delete/main/assets/case-studies/diagrams/svg/sda_01_multidevice_architecture.svg">Architecture</a> · <a href="https://raw.githubusercontent.com/IvanFuentesB/delete/main/assets/case-studies/diagrams/svg/sda_02_cv_pipeline.svg">CV pipeline</a> · <a href="https://raw.githubusercontent.com/IvanFuentesB/delete/main/assets/case-studies/sda-pdf-real-images/sda_pdf_09_sequence_diagram.png">Sequence diagram</a>
+      <strong>Focus:</strong> Python, Pygame, OpenCV, MQTT, Serial
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/IvanFuentesB/Doodle-Hamster-Cam">Doodle-Hamster-Cam</a></strong><br/>
       CPU-friendly expression-to-avatar reaction prototype that turns face and hand landmarks into a separate hamster reaction panel in real time.<br/><br/>
-      <strong>Focus:</strong> Python, MediaPipe Tasks, PyTorch, local webcam inference<br/>
-      <strong>Proof:</strong> <a href="https://raw.githubusercontent.com/IvanFuentesB/delete/main/assets/case-studies/diagrams/svg/doodle_01_live_inference_pipeline.svg">Live inference</a> · <a href="https://raw.githubusercontent.com/IvanFuentesB/delete/main/assets/case-studies/diagrams/svg/doodle_02_training_pipeline.svg">Training pipeline</a>
+      <strong>Focus:</strong> Python, MediaPipe Tasks, PyTorch, local webcam inference
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/IvanFuentesB/Super-AI-Agent">Ghoti / Super-AI-Agent</a></strong><br/>
       Supervised AI operator framework centered on approval-aware execution, reviewable outputs, explicit boundaries, and local-first tooling.<br/><br/>
-      <strong>Focus:</strong> Python, Node.js, local dashboard, approval gating<br/>
-      <strong>Proof:</strong> <a href="https://raw.githubusercontent.com/IvanFuentesB/delete/main/assets/case-studies/diagrams/svg/ghoti_01_supervised_operator_architecture.svg">Operator architecture</a> · <a href="https://raw.githubusercontent.com/IvanFuentesB/delete/main/assets/case-studies/diagrams/svg/ghoti_02_safety_boundary.svg">Safety boundary</a>
+      <strong>Focus:</strong> Python, Node.js, local dashboard, approval gating
     </td>
   </tr>
 </table>
@@ -60,9 +57,10 @@
 
 ## Repo map
 
-- [SDA_Group_Project](https://github.com/IvanFuentesB/SDA_Group_Project): computer vision platformer with architecture, CV pipeline, and supporting documentation evidence.
-- [Doodle-Hamster-Cam](https://github.com/IvanFuentesB/Doodle-Hamster-Cam): landmark-driven expression-to-avatar prototype with collection, mapping, training, and live inference workflows.
-- [Super-AI-Agent](https://github.com/IvanFuentesB/Super-AI-Agent): approval-aware AI operator framework with explicit non-features and safety boundaries.
+- [SDA_Group_Project](https://github.com/IvanFuentesB/SDA_Group_Project): computer vision platformer with clean architecture visuals and supporting documentation evidence
+- [Doodle-Hamster-Cam](https://github.com/IvanFuentesB/Doodle-Hamster-Cam): landmark-driven expression-to-avatar prototype with collection, mapping, training, and live inference workflows
+- [Super-AI-Agent](https://github.com/IvanFuentesB/Super-AI-Agent): approval-aware AI operator framework with explicit non-features and safety boundaries
+- [NXP visual upgrade draft](docs/nxp/NXP_CUP_README_UPGRADE.md): ready-to-apply README pass using copied Mid-Term Report images and clean v4 diagrams
 
 ## Contact
 

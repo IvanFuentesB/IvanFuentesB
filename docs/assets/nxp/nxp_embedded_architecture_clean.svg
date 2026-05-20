@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800" viewBox="0 0 1400 800">
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="8" refX="11" refY="4" orient="auto"><path d="M0,0 L12,4 L0,8 Z" fill="#2563eb"/></marker>
+    <linearGradient id="blueGrad" x1="0" x2="1"><stop offset="0" stop-color="#e0f2fe"/><stop offset="1" stop-color="#eef2ff"/></linearGradient>
+    <linearGradient id="darkGrad" x1="0" x2="1"><stop offset="0" stop-color="#06192b"/><stop offset="1" stop-color="#0a2d45"/></linearGradient>
+    <filter id="soft"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#0f172a" flood-opacity="0.10"/></filter>
+    <style>
+      .title { font: 700 40px Inter, Segoe UI, Arial, sans-serif; fill:#0f172a; }
+      .subtitle { font: 400 19px Inter, Segoe UI, Arial, sans-serif; fill:#475569; }
+      .boxTitle { font: 700 22px Inter, Segoe UI, Arial, sans-serif; fill:#0f172a; }
+      .boxText { font: 400 16px Inter, Segoe UI, Arial, sans-serif; fill:#334155; }
+      .small { font: 600 13px ui-monospace, SFMono-Regular, Consolas, monospace; fill:#1d4ed8; }
+      .arrow { stroke:#2563eb; stroke-width:4; fill:none; marker-end:url(#arrow); }
+      .dash { stroke:#64748b; stroke-width:3; stroke-dasharray:10 8; fill:none; marker-end:url(#arrow); }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <text x="60" y="72" class="title">NXP-Cup Embedded Hardware Architecture</text>
+  <text x="60" y="106" class="subtitle">Midterm-report grounded system overview</text>
+<rect x="70" y="190" width="250" height="150" rx="22" fill="#fff7ed" stroke="#fb923c" stroke-width="2.5" filter="url(#soft)"/>
+<text x="94" y="232" class="boxTitle">2S LiPo Battery</text>
+<text x="94" y="262" class="boxText">XT60 high-current path</text>
+<text x="94" y="287" class="boxText">common ground</text>
+<rect x="410" y="190" width="280" height="150" rx="22" fill="#f0f9ff" stroke="#60a5fa" stroke-width="2.5" filter="url(#soft)"/>
+<text x="434" y="232" class="boxTitle">S32K144EVB-Q100</text>
+<text x="434" y="262" class="boxText">PWM outputs</text>
+<text x="434" y="287" class="boxText">GPIO / ADC / UART</text>
+<text x="434" y="312" class="boxText">custom PCB shield</text>
+<rect x="800" y="120" width="230" height="120" rx="22" fill="#f8fafc" stroke="#60a5fa" stroke-width="2.5" filter="url(#soft)"/>
+<text x="824" y="162" class="boxTitle">Linear camera</text>
+<text x="824" y="192" class="boxText">128 pixels</text>
+<text x="824" y="217" class="boxText">124 used</text>
+<rect x="800" y="290" width="230" height="120" rx="22" fill="#f8fafc" stroke="#60a5fa" stroke-width="2.5" filter="url(#soft)"/>
+<text x="824" y="332" class="boxTitle">Ultrasonic sensor</text>
+<text x="824" y="362" class="boxText">distance input</text>
+<text x="824" y="387" class="boxText">brake trigger</text>
+<rect x="1120" y="120" width="220" height="120" rx="22" fill="#f8fafc" stroke="#60a5fa" stroke-width="2.5" filter="url(#soft)"/>
+<text x="1144" y="162" class="boxTitle">Servo steering</text>
+<text x="1144" y="192" class="boxText">PWM center 2700</text>
+<text x="1144" y="217" class="boxText">rate limited</text>
+<rect x="1120" y="290" width="220" height="120" rx="22" fill="#f8fafc" stroke="#60a5fa" stroke-width="2.5" filter="url(#soft)"/>
+<text x="1144" y="332" class="boxTitle">ESC + motors</text>
+<text x="1144" y="362" class="boxText">neutral arming</text>
+<text x="1144" y="387" class="boxText">drive PWM</text>
+<rect x="1120" y="460" width="220" height="120" rx="22" fill="#f8fafc" stroke="#60a5fa" stroke-width="2.5" filter="url(#soft)"/>
+<text x="1144" y="502" class="boxTitle">Brake LEDs</text>
+<text x="1144" y="532" class="boxText">6 red LEDs</text>
+<text x="1144" y="557" class="boxText">driver outputs</text>
+<path d="M320,265 C365,265 365,265 410,265" class="arrow"/>
+<path d="M690,250 C745,250 745,180 800,180" class="arrow"/>
+<path d="M690,270 C745,270 745,350 800,350" class="arrow"/>
+<path d="M690,250 C905,250 905,180 1120,180" class="arrow"/>
+<path d="M690,280 C905,280 905,350 1120,350" class="arrow"/>
+<path d="M690,310 C905,310 905,520 1120,520" class="arrow"/>
+<rect x="70" y="650" width="154" height="34" rx="17" fill="#dbeafe" stroke="#93c5fd"/><text x="87" y="673" class="small">Custom PCB</text>
+<rect x="230" y="650" width="202" height="34" rx="17" fill="#dbeafe" stroke="#93c5fd"/><text x="247" y="673" class="small">JST connectors</text>
+<rect x="410" y="650" width="238" height="34" rx="17" fill="#dbeafe" stroke="#93c5fd"/><text x="427" y="673" class="small">S32 Design Studio</text>
+<rect x="610" y="650" width="154" height="34" rx="17" fill="#dbeafe" stroke="#93c5fd"/><text x="627" y="673" class="small">Embedded C</text>
+</svg>

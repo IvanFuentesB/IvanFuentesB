@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800" viewBox="0 0 1400 800">
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="8" refX="11" refY="4" orient="auto"><path d="M0,0 L12,4 L0,8 Z" fill="#2563eb"/></marker>
+    <linearGradient id="blueGrad" x1="0" x2="1"><stop offset="0" stop-color="#e0f2fe"/><stop offset="1" stop-color="#eef2ff"/></linearGradient>
+    <linearGradient id="darkGrad" x1="0" x2="1"><stop offset="0" stop-color="#06192b"/><stop offset="1" stop-color="#0a2d45"/></linearGradient>
+    <filter id="soft"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#0f172a" flood-opacity="0.10"/></filter>
+    <style>
+      .title { font: 700 40px Inter, Segoe UI, Arial, sans-serif; fill:#0f172a; }
+      .subtitle { font: 400 19px Inter, Segoe UI, Arial, sans-serif; fill:#475569; }
+      .boxTitle { font: 700 22px Inter, Segoe UI, Arial, sans-serif; fill:#0f172a; }
+      .boxText { font: 400 16px Inter, Segoe UI, Arial, sans-serif; fill:#334155; }
+      .small { font: 600 13px ui-monospace, SFMono-Regular, Consolas, monospace; fill:#1d4ed8; }
+      .arrow { stroke:#2563eb; stroke-width:4; fill:none; marker-end:url(#arrow); }
+      .dash { stroke:#64748b; stroke-width:3; stroke-dasharray:10 8; fill:none; marker-end:url(#arrow); }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <text x="60" y="72" class="title">NXP-Cup Vision, Control, and Safety Flow</text>
+  <text x="60" y="106" class="subtitle">Camera steering loop plus ultrasonic braking state machine</text>
+<rect x="70" y="210" width="170" height="155" rx="22" fill="#f8fafc" stroke="#60a5fa" stroke-width="2.5" filter="url(#soft)"/>
+<text x="94" y="252" class="boxTitle">Camera frame</text>
+<text x="94" y="282" class="boxText">20 ms frame</text>
+<text x="94" y="307" class="boxText">~50 FPS</text>
+<rect x="270" y="210" width="170" height="155" rx="22" fill="#f8fafc" stroke="#60a5fa" stroke-width="2.5" filter="url(#soft)"/>
+<text x="294" y="252" class="boxTitle">Smoothing</text>
+<text x="294" y="282" class="boxText">[1 4 6 4 1]/16</text>
+<text x="294" y="307" class="boxText">noise reduce</text>
+<rect x="470" y="210" width="170" height="155" rx="22" fill="#f8fafc" stroke="#60a5fa" stroke-width="2.5" filter="url(#soft)"/>
+<text x="494" y="252" class="boxTitle">Derivative</text>
+<text x="494" y="282" class="boxText">[-1 -2 0 2 1]</text>
+<text x="494" y="307" class="boxText">edge strength</text>
+<rect x="670" y="210" width="170" height="155" rx="22" fill="#f8fafc" stroke="#60a5fa" stroke-width="2.5" filter="url(#soft)"/>
+<text x="694" y="252" class="boxTitle">Lane pair</text>
+<text x="694" y="282" class="boxText">90 px ±20%</text>
+<text x="694" y="307" class="boxText">candidate score</text>
+<rect x="870" y="210" width="170" height="155" rx="22" fill="#f8fafc" stroke="#60a5fa" stroke-width="2.5" filter="url(#soft)"/>
+<text x="894" y="252" class="boxTitle">PID error</text>
+<text x="894" y="282" class="boxText">Kp 4.5 Ki .03</text>
+<text x="894" y="307" class="boxText">Kd 2.0 clamp</text>
+<rect x="1070" y="210" width="170" height="155" rx="22" fill="#f8fafc" stroke="#60a5fa" stroke-width="2.5" filter="url(#soft)"/>
+<text x="1094" y="252" class="boxTitle">Servo PWM</text>
+<text x="1094" y="282" class="boxText">1650 / 2700 / 3550</text>
+<text x="1094" y="307" class="boxText">rate limit 8</text>
+<path d="M240,288 C255,288 255,288 270,288" class="arrow"/>
+<path d="M440,288 C455,288 455,288 470,288" class="arrow"/>
+<path d="M640,288 C655,288 655,288 670,288" class="arrow"/>
+<path d="M840,288 C855,288 855,288 870,288" class="arrow"/>
+<path d="M1040,288 C1055,288 1055,288 1070,288" class="arrow"/>
+<rect x="270" y="500" width="230" height="125" rx="22" fill="#fff7ed" stroke="#fb923c" stroke-width="2.5" filter="url(#soft)"/>
+<text x="294" y="542" class="boxTitle">Ultrasonic input</text>
+<text x="294" y="572" class="boxText">active after 2000 ms</text>
+<text x="294" y="597" class="boxText">warning &lt;= 35 cm</text>
+<rect x="600" y="500" width="250" height="125" rx="22" fill="#fff7ed" stroke="#fb923c" stroke-width="2.5" filter="url(#soft)"/>
+<text x="624" y="542" class="boxTitle">Brake states</text>
+<text x="624" y="572" class="boxText">stop hold 350 ms</text>
+<text x="624" y="597" class="boxText">crawl if blocked</text>
+<rect x="950" y="500" width="250" height="125" rx="22" fill="#fff7ed" stroke="#fb923c" stroke-width="2.5" filter="url(#soft)"/>
+<text x="974" y="542" class="boxTitle">Hard safety</text>
+<text x="974" y="572" class="boxText">cutoff &lt;= 10 cm</text>
+<text x="974" y="597" class="boxText">LED warning</text>
+<path d="M500,562 C550,562 550,562 600,562" class="arrow"/>
+<path d="M850,562 C900,562 900,562 950,562" class="arrow"/>
+</svg>
