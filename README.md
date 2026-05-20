@@ -44,15 +44,6 @@
 
 <p align="center">
   <a href="https://github.com/IvanFuentesB">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=IvanFuentesB&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a1f16&title_color=9fd9be&icon_color=46c08a&text_color=c9e5d6" alt="Ivan Fuentes Bedereu's GitHub stats" />
-  </a>
-  <a href="https://github.com/IvanFuentesB">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanFuentesB&layout=compact&hide_border=true&bg_color=0a1f16&title_color=9fd9be&text_color=c9e5d6&langs_count=8" alt="Top languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/IvanFuentesB">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=IvanFuentesB&bg_color=0a1f16&color=9fd9be&line=46c08a&point=9fd9be&area=true&hide_border=true" alt="GitHub activity graph" />
   </a>
 </p>
