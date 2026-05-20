@@ -8,7 +8,7 @@
 
 <p align="center">Robotics • autonomous systems • embedded control • computer vision • hardware-software integration</p>
 
-<p align="center">I build engineering systems where sensing, control, software, and hardware have to agree under real constraints.</p>
+<p align="center">Mechatronics student building systems where embedded control, computer vision, and hardware bring-up have to work together — not just demo in isolation.</p>
 
 ## What I work on
 
@@ -50,6 +50,16 @@
   </tr>
 </table>
 
+
+## GitHub stats
+
+<p align="center">
+  <a href="https://github.com/IvanFuentesB">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=IvanFuentesB&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&bg_color=06140e&title_color=9fd9be&text_color=9fd9be&icon_color=46c08a&hide=contribs" alt="Ivan GitHub stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanFuentesB&layout=compact&hide_border=true&langs_count=8&bg_color=06140e&title_color=9fd9be&text_color=9fd9be&hide=html,css,jupyter%20notebook" alt="Top languages" />
+  </a>
+</p>
+
 ## Engineering toolkit
 
 - Embedded and control: Embedded C, real-time control loops, serial integration, hardware bring-up
@@ -65,4 +75,6 @@
 
 ## Contact
 
+- LinkedIn: [linkedin.com/in/ivan-fuentes-bedereu-0587b620b](https://www.linkedin.com/in/ivan-fuentes-bedereu-0587b620b/)
 - Email: [ivanfb05@gmail.com](mailto:ivanfb05@gmail.com)
+- Based in Eindhoven, NL
