@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ivanfb05@gmail.com"><img src="https://img.shields.io/badge/Email-06140e?style=for-the-badge&logo=gmail&logoColor=9fd9be" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/ivan-fuentes-bedereu-0587b620b/"><img src="https://img.shields.io/badge/LinkedIn-06140e?style=for-the-badge&logo=linkedin&logoColor=9fd9be" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Eindhoven,%20NL-06140e?style=for-the-badge&logo=googlemaps&logoColor=9fd9be" alt="Eindhoven, NL" />
-  <img src="https://img.shields.io/badge/Fontys-06140e?style=for-the-badge&logoColor=9fd9be" alt="Fontys University of Applied Sciences" />
+  <a href="mailto:ivanfb05@gmail.com"><img src="https://img.shields.io/badge/Email-1f242b?style=for-the-badge&logo=gmail&logoColor=d0d4da" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ivan-fuentes-bedereu-0587b620b/"><img src="https://img.shields.io/badge/LinkedIn-1f242b?style=for-the-badge&logo=linkedin&logoColor=d0d4da" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Eindhoven,%20NL-1f242b?style=for-the-badge&logo=googlemaps&logoColor=d0d4da" alt="Eindhoven, NL" />
+  <img src="https://img.shields.io/badge/Fontys-1f242b?style=for-the-badge&logoColor=d0d4da" alt="Fontys University of Applied Sciences" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
   <img src="assets/terminal.svg" width="100%" alt="neofetch-style terminal: Mechatronics Engineering (BEng) at Fontys, Eindhoven NL; Embedded C, NXP S32K144, Arduino; Python, C++, MATLAB; OpenCV, MediaPipe, PyTorch, MQTT" />
 </p>
 
-## 🧰 Technical skills
+## Technical skills
 
 <p align="center">
   <img height="48" src="https://skillicons.dev/icons?i=c,cpp,python,arduino,linux,git,github,vscode" alt="Core engineering tools" />
@@ -28,15 +28,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MATLAB-06140e?style=for-the-badge&logo=mathworks&logoColor=9fd9be" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/Simulink-06140e?style=for-the-badge&logoColor=9fd9be" alt="Simulink" />
-  <img src="https://img.shields.io/badge/LabVIEW-06140e?style=for-the-badge&logoColor=9fd9be" alt="LabVIEW" />
-  <img src="https://img.shields.io/badge/KiCad-06140e?style=for-the-badge&logo=kicad&logoColor=9fd9be" alt="KiCad" />
-  <img src="https://img.shields.io/badge/SolidWorks-06140e?style=for-the-badge&logoColor=9fd9be" alt="SolidWorks" />
-  <img src="https://img.shields.io/badge/NXP%20S32K144-06140e?style=for-the-badge&logo=nxp&logoColor=9fd9be" alt="NXP S32K144" />
+  <img src="https://img.shields.io/badge/MATLAB-1f242b?style=for-the-badge&logo=mathworks&logoColor=d0d4da" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Simulink-1f242b?style=for-the-badge&logoColor=d0d4da" alt="Simulink" />
+  <img src="https://img.shields.io/badge/LabVIEW-1f242b?style=for-the-badge&logoColor=d0d4da" alt="LabVIEW" />
+  <img src="https://img.shields.io/badge/KiCad-1f242b?style=for-the-badge&logo=kicad&logoColor=d0d4da" alt="KiCad" />
+  <img src="https://img.shields.io/badge/SolidWorks-1f242b?style=for-the-badge&logoColor=d0d4da" alt="SolidWorks" />
+  <img src="https://img.shields.io/badge/NXP%20S32K144-1f242b?style=for-the-badge&logo=nxp&logoColor=d0d4da" alt="NXP S32K144" />
 </p>
 
-## 🚀 Selected portfolio work
+## Selected portfolio work
 
 <table>
 <tr>
@@ -83,22 +83,22 @@ Supervised AI operator framework centered on approval-aware execution, reviewabl
 </tr>
 </table>
 
-## 📊 GitHub stats
+## GitHub stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanFuentesB&theme=github_dark" alt="GitHub profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanFuentesB&theme=dark" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IvanFuentesB&theme=github_dark" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IvanFuentesB&theme=github_dark" alt="Most committed languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IvanFuentesB&theme=dark" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IvanFuentesB&theme=dark" alt="Most committed languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IvanFuentesB&bg_color=0a1f16&color=9fd9be&line=46c08a&point=9fd9be&area=true&hide_border=true" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IvanFuentesB&bg_color=15191e&color=d0d4da&line=ffa657&point=f6f2ea&area_color=ffa657&area=true&hide_border=true" alt="GitHub activity graph" />
 </p>
 
-## 🔧 What I work on
+## What I work on
 
 - Embedded control and autonomous systems
 - Computer vision for real-world interaction
@@ -106,7 +106,7 @@ Supervised AI operator framework centered on approval-aware execution, reviewabl
 - Technical tooling that stays explicit about limits, validation, and safety
 
 <details>
-<summary><strong>🗺️ Repo map</strong></summary>
+<summary><strong>Repo map</strong></summary>
 <br/>
 
 - [SDA_Group_Project](https://github.com/IvanFuentesB/SDA_Group_Project): computer vision platformer with architecture, CV pipeline, and supporting documentation evidence.
@@ -115,7 +115,7 @@ Supervised AI operator framework centered on approval-aware execution, reviewabl
 
 </details>
 
-## 📫 Contact
+## Contact
 
 - LinkedIn: [linkedin.com/in/ivan-fuentes-bedereu-0587b620b](https://www.linkedin.com/in/ivan-fuentes-bedereu-0587b620b/)
 - Email: [ivanfb05@gmail.com](mailto:ivanfb05@gmail.com)
