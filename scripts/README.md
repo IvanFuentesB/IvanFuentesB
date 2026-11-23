@@ -13,7 +13,7 @@ Run it from the repo root. It overwrites `assets/*.svg` and prints each file's s
 - Terminal info lines: `INFO` in `terminal()`
 - Banner name, subtitle, typed command: `NAME`, `SUB`, `TYPED` in `header()` (the pixel font only has the letters it currently uses; add glyphs to `GLYPHS` for new ones)
 - Project cards: `nxp()`, `sda()`, `doodle()`, `ghoti()`; title, tagline and chips are the `frame(...)` arguments
-- Palette: constants at the top of `buildAll()` (brand greens from `docs/portfolio_memory.md`)
+- Palette: constants at the top of `buildAll()` (neutral graphite with one amber accent, `BRIGHT`)
 
 The ASCII portrait (`MAP` in `terminal()`) was sampled from the GitHub avatar at 64x35 cells: letters `a` (darkest) to `l` (brightest), `_` is background.
 
